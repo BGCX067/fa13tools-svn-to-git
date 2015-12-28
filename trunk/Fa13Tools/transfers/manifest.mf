@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+OpenIDE-Module: rov.fa13.transfers
+OpenIDE-Module-Layer: rov/fa13/transfers/layer.xml
+OpenIDE-Module-Localizing-Bundle: rov/fa13/transfers/Bundle.properties
+OpenIDE-Module-Requires: 
+  org.openide.windows.IOProvider,
+  org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.1.5

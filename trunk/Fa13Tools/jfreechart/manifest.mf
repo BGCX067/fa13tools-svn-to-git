@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.jfreechart
+OpenIDE-Module-Localizing-Bundle: org/jfreechart/Bundle.properties
+OpenIDE-Module-Provides: JFreeChart labriary
+OpenIDE-Module-Specification-Version: 1.0.16
+

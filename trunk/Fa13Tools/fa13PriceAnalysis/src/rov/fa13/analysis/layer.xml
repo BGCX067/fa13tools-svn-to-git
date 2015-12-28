@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="rov-fa13-analysis-priceAnalysisAction.instance">
+                <attr name="component" methodvalue="rov.fa13.analysis.priceAnalysisTopComponent.findInstance"/>
+                <attr name="displayName" bundlevalue="rov.fa13.analysis.Bundle#CTL_priceAnalysisAction"/>
+                <attr name="instanceCreate" methodvalue="org.openide.windows.TopComponent.openAction"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+<!--        <folder name="Window">
+            <file name="priceAnalysisAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/rov-fa13-analysis-priceAnalysisAction.instance"/>
+            </file>
+        </folder>-->
+        <folder name="Transfers">
+            <file name="priceAnalysisAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/rov-fa13-analysis-priceAnalysisAction.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="priceAnalysisTopComponent.settings" url="priceAnalysisTopComponentSettings.xml"/>
+        </folder>
+        <folder name="Modes">
+            <folder name="editor">
+                <file name="priceAnalysisTopComponent.wstcref" url="priceAnalysisTopComponentWstcref.xml"/>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

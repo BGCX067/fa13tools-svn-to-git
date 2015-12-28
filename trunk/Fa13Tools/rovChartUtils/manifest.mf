@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: rov.chartutils
+OpenIDE-Module-Localizing-Bundle: rov/chartutils/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

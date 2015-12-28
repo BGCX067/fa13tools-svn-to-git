@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: rov.rcp.utils
+OpenIDE-Module-Localizing-Bundle: rov/rcp/utils/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.1
+
